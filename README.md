@@ -9,6 +9,10 @@ Este proyecto busca recrear dos de las experiencias más icónicas de los astron
 
 El objetivo es ofrecer a estudiantes y público general una herramienta visual e interactiva que les permita comprender cómo estas experiencias sensoriales (vista y ausencia de peso) benefician a la humanidad en la Tierra.
 
+## 🎬 Demo en acción
+
+![Demo animada](demo.gif)
+
 ## 🎯 Objetivos
 
 * Educar y entretener a través de un entorno inmersivo creado en **Roblox Studio**.
