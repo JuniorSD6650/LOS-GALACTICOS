@@ -11,7 +11,7 @@ El objetivo es ofrecer a estudiantes y público general una herramienta visual e
 
 ## 🎬 Demo en acción
 
-![Demo animada](demo.mp4)
+![Demo animada](demo.gif)
 
 ## 🎯 Objetivos
 
