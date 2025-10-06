@@ -1,69 +1,72 @@
-# Proyecto Roblox: Experiencia Cupola y NBL
+# Roblox Project: Cupola and NBL Experience
 
-## 🌌 Descripción
+## 🌌 Description
 
-Este proyecto busca recrear dos de las experiencias más icónicas de los astronautas en la Estación Espacial Internacional (ISS):
+This project aims to recreate two of the most iconic experiences of astronauts on the International Space Station (ISS):
 
-* **La vista desde la Cupola**, que ofrece una perspectiva única de la Tierra desde el espacio.
-* **El entrenamiento en el Laboratorio de Flotación Neutral (NBL)**, donde los astronautas se preparan bajo el agua para misiones espaciales.
+* **The view from the Cupola**, offering a unique perspective of Earth from space.
+* **Training in the Neutral Buoyancy Laboratory (NBL)**, where astronauts prepare underwater for space missions.
 
-El objetivo es ofrecer a estudiantes y público general una herramienta visual e interactiva que les permita comprender cómo estas experiencias sensoriales (vista y ausencia de peso) benefician a la humanidad en la Tierra.
+The goal is to provide students and the general public with a visual and interactive tool that allows them to understand how these sensory experiences (sight and weightlessness) benefit humanity on Earth.
 
-## 🎬 Demo en acción
+## 🎬 Demo in Action
 
-![Demo animada](demo.gif)
+![Animated Demo](demo.gif)
 
-## 🎯 Objetivos
+## 🎯 Objectives
 
-* Educar y entretener a través de un entorno inmersivo creado en **Roblox Studio**.
-* Transmitir cómo la exploración espacial aporta a la ciencia y la vida en la Tierra.
-* Permitir que los usuarios interactúen con la experiencia tanto en la Cupola como en el NBL.
+* Educate and entertain through an immersive environment created in **Roblox Studio**.
+* Showcase how space exploration contributes to science and life on Earth.
+* Allow users to interact with the experience both in the Cupola and in the NBL.
 
-## 🕹️ Características principales
+## 🕹️ Main Features
 
-### 🛰️ Experiencia Cupola
+### 🛰️ Cupola Experience
 
-* El usuario puede **crear y personalizar un personaje** básico.
-* El personaje se sitúa en la Cupola, observando la Tierra.
-* El jugador puede **seleccionar regiones geográficas** y visualizar imágenes reales de la ISS.
-* Se muestra **información científica y cultural** de cada región.
+* The user can **create and customize a basic character**.
+* The character is placed inside the Cupola, observing Earth.
+* The player can **select geographic regions** and view real ISS images.
+* **Scientific and cultural information** is displayed for each region.
 
-### 🌊 Experiencia NBL
+### 🌊 NBL Experience
 
-* El usuario puede **simular entrenamiento subacuático** como un astronauta.
-* Sistema de **ajuste de peso y flotabilidad** para alcanzar el estado de ingravidez.
-* Mini-juegos interactivos:
+* The user can **simulate underwater astronaut training**.
 
-  * Entrar y salir de compuertas.
-  * Realizar reparaciones simuladas.
-  * Desplazarse por barandillas y estructuras de la estación.
-* **Exploración lunar simulada**: el usuario puede descender al fondo del tanque y realizar tareas como recolectar muestras o usar herramientas.
+* A **weight and buoyancy adjustment system** enables a weightless state.
 
-## 👥 Público objetivo
+* Interactive mini-games:
 
-* Estudiantes de diferentes niveles.
-* Público en general interesado en ciencia, exploración espacial y educación.
-* Eventos educativos y museos que busquen experiencias interactivas y visuales.
+  * Entering and exiting airlocks.
+  * Performing simulated repairs.
+  * Moving along handrails and station structures.
 
-## 📊 Recursos utilizados
+* **Simulated lunar exploration**: the user can descend to the bottom of the tank and perform tasks such as collecting samples or using tools.
 
-* **Roblox Studio** como motor de creación.
-* Imágenes y datos de NASA (Cupola, ISS y NBL).
-* Modelos 3D personalizados para simular estructuras espaciales.
+## 👥 Target Audience
 
-## 🚀 Potenciales usos
+* Students of different levels.
+* General public interested in science, space exploration, and education.
+* Educational events and museums seeking interactive and visual experiences.
 
-* Educación STEM en colegios y universidades.
-* Museos de ciencia y tecnología.
-* Eventos de divulgación científica.
-* Experiencias interactivas online.
+## 📊 Resources Used
 
-## 💡 Consideraciones futuras
+* **Roblox Studio** as the creation engine.
+* NASA images and data (Cupola, ISS, and NBL).
+* Custom 3D models to simulate space structures.
 
-* Optimización para pantallas táctiles y dispositivos móviles.
-* Inclusión de realidad virtual para mayor inmersión.
-* Ampliación de minijuegos y experiencias interactivas.
+## 🚀 Potential Uses
+
+* STEM education in schools and universities.
+* Science and technology museums.
+* Science outreach events.
+* Online interactive experiences.
+
+## 💡 Future Considerations
+
+* Optimization for touchscreens and mobile devices.
+* Inclusion of virtual reality for greater immersion.
+* Expansion of mini-games and interactive experiences.
 
 ---
 
-👨‍🚀 **Explora, aprende y entrena como un astronauta desde Roblox.**
+👨‍🚀 **Explore, learn, and train like an astronaut in Roblox.**
